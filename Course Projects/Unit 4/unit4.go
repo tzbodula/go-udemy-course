@@ -7,4 +7,7 @@ import (
 func main() {
 	n, _ := fmt.Println("Hello, playground", 42, true)
 	fmt.Println(n)
+
+	x := 42
+	fmt.Println(x)
 }
