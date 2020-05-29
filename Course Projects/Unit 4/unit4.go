@@ -4,8 +4,8 @@ import (
 	"fmt" //The standard input/output package for Go
 )
 
-var a = 5 //Declares a global variable named A and assigns it to the value 5. (Initialization)
-var b int //Declares that there is a global variable with the name Z and that the variable is of type int. Assigns the "zero value" of the integer type to "z"
+var f = 5 //Declares a global variable named A and assigns it to the value 5. (Initialization)
+var g int //Declares that there is a global variable with the name Z and that the variable is of type int. Assigns the "zero value" of the integer type to "z"
 
 //The "zero value" is essentially a default value. For instance, the zero value for numbers is 0 and the zero value for booleans is false.
 
